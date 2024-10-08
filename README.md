@@ -98,4 +98,5 @@ Please cite the following paper in your publications if it is helpful:
 [4] Ye M, Ruan W, Du B, et al. Channel augmented joint learning for visible-infrared recognition[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 13567-13576.
 
 [5] Zhang Y, Wang H. Diverse Embedding Expansion Network and Low-Light Cross-Modality Benchmark for Visible-Infrared Person Re-identification[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 2153-2162.
+
 [6] Parmar G, Park, T, Narasimhan, S, et al. One-Step Image Translation with Text-to-Image Models [J]. 2024, abs/2403.12036.
