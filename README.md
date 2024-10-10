@@ -75,7 +75,7 @@ python test.py --dataset 'llcm' --resume 'model_path'  --gpu 0
 
 ### 5. Citation
 
-Most of the code of our backbone are borrowed from [AGW](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) [3] and [CAJ](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) [4]. Most of the code related to LLCM dataset are borrowed from [DEEN](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) [5]. 
+Most of the code of our backbone are borrowed from [AGW](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) [3] and [CAJ](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) [4]. Most of the code related to LLCM dataset are borrowed from [DEEN](https://github.com/ZYK100/LLCM) [5]. 
 
 The diffusion augment from IR to VIS are borrowed from  [CycleGAN-Turbo]( https://github.com/GaParmar/img2img-turbo)[6]
 
