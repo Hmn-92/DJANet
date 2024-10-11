@@ -48,7 +48,7 @@ python train.py --dataset sysu --gpu 0
 ```
 python test.py --dataset 'sysu' --mode 'all' --resume 'model_path'  --gpu 0
 ```
-  - `--dataset`: which dataset "sysu" or "regdb".
+  - `--dataset`: which dataset "sysu", "regdb" or "llcm".
   - `--mode`: "all" or "indoor"  (only for sysu dataset).
   - `--resume`: the saved model path.
   - `--gpu`: which gpu to use.
