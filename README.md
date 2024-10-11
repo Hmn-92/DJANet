@@ -12,7 +12,9 @@ We adopt the CNN-based AGW [3] as backbone respectively.
 
 ### 2. Datasets
 
-- RegDB [1]: The RegDB dataset can be downloaded from this [website](http://dm.dongguk.edu/link.html).
+- RegDB [1]: The RegDB dataset can be downloaded from this [website](http://dm.dongguk.edu/link.html)by submitting a copyright form.
+
+       (Named: "Dongguk Body-based Person Recognition Database (DBPerson-Recog-DB1)" on their website).
 
 - SYSU-MM01 [2]: The SYSU-MM01 dataset can be downloaded from this [website](http://isee.sysu.edu.cn/project/RGBIRReID.htm).
 
